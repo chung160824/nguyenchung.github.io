@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    background-color: rgb(69, 44, 160);
+    color: white;
+}
+
+.container1 {
+    flex : 1
+}
+table {
+    border-collapse:collapse;
+}
+
+
